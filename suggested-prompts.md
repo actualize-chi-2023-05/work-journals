@@ -12,18 +12,17 @@
 - Find an article about a tech topic that you understand in a different way than you would have a few weeks ago, because of what you've learned in the bootcamp. What's that different way, and why is that article interesting to you?
 - What kind of encouragement or feedback would you most like to hear from your manager at your first job? Be specific.
 - When and how did you get help on something this week - outline what that looked like:
--- Where did you get stuck?
--- Which of the 4Ds did you use (Deliberate Practice, Decomposition, Discovery, Debugging)
--- If you needed help from a person, who did you go to? (A classmate, TA, lead instructor, someone you know outside of class who's helping you with coding?)
--- Were you able to get a solution? What was it?
+    - Where did you get stuck?
+    - Which of the 4Ds did you use (Deliberate Practice, Decomposition, Discovery, Debugging)
+    - If you needed help from a person, who did you go to? (A classmate, TA, lead instructor, someone you know outside of class who's helping you with coding?)
+    - Were you able to get a solution? What was it?
 
 - What dvice you would give to your past self or another person learning this material?
--- Advice on deliberate practice
--- Advice on debugging
--- Advice on decomposition
--- Advice on discovery
--- Advice on managing your work/life balance
-
+    - Advice on deliberate practice
+    - Advice on debugging
+    - Advice on decomposition
+    - Advice on discovery
+    - Advice on managing your work/life balance
 
 
 ### Team Projects:
