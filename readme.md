@@ -33,3 +33,12 @@
 
 [**Links I Would Gchat You If We Were Friends**](https://linksiwouldgchatyou.substack.com/archive?sort=new)
 - Fun format! More of a "news feed/social media feed" setup
+
+
+## The Syntax - What is "Markdown" and how do I use it?
+
+> Markdown is a lightweight markup language that is commonly used for formatting and styling plain text documents in coding repositories (like the README.md file). It is designed to be easy to read and write, with a simple syntax that can be converted into HTML or other formats. Markdown allows you to add basic formatting elements to your text, such as headers, emphasis (bold and italic), lists, links, images, and code snippets. When creating a markdown file, the most common file extension is `.md` 
+
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) - A quick reference to the Markdown syntax.
+- Another [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Markdown Editor Playground](https://dillinger.io/) - A great place to try out the markdown syntax and see immediate results! 
