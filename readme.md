@@ -25,3 +25,11 @@
 - Weekly email newsletter
 - Linked on her personal website: https://cassidoo.co/
 - Publishes updates on twitter: https://twitter.com/cassidoo
+
+**Simon Willison**
+- [TIL Journal](https://til.simonwillison.net/)
+- [Weblog](https://simonwillison.net/tags/weeknotes/)
+
+
+[**Links I Would Gchat You If We Were Friends**](https://linksiwouldgchatyou.substack.com/archive?sort=new)
+- Fun format! More of a "news feed/social media feed" setup
