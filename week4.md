@@ -1,3 +1,5 @@
+Go into your Github profile and click on the link to your `gists`. At the top of the page, click on the edit button (with the pencil icon), and then write your journal entry at the top of the file, under the document's header!
+
 ## 2023-07-20
 ### Learnings
 _(Describe your learning accomplishments and wins, as well as how you are planning to improve in specific areas)_
